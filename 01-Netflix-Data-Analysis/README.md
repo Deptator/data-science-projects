@@ -76,7 +76,15 @@ The project contains visualizations including:
 - Top 10 Most Popular Movies
 - Movie Release Trend
 - Average Vote by Genre
-![Genre Distribution](outputs/genre_distribution.png)
+
+### Genre Distribution
+<img src="outputs/genre_distribution.png" width="700">
+
+### Vote Category Distribution
+<img src="outputs/vote_distribution.png" width="700">
+
+### Release Year Distribution
+<img src="outputs/release_year_distribution.png" width="700">
 
 ---
 
